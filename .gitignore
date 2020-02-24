@@ -93,3 +93,4 @@ buildNumber.properties
 /config-service.iml
 /HELP.md
 /.mvn/
+!/HELP.md
